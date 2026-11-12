@@ -1,0 +1,7 @@
+[provider]
+kind = "openai"
+model = "gpt-4o-mini"
+
+[limits]
+max_retires = 3
+timeout_seconds =20
