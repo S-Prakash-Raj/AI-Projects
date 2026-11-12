@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from logstat!")
+"""Streaming summariser for web-server access logs."""
